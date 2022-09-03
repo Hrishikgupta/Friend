@@ -1,0 +1,21 @@
+body{
+    background-color: #FEFFDF;
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 9px;
+    width: 30%;
+    box-sizing: 20;
+}
+img{
+    height: 300px;
+    width: 250px;
+}
+h1{
+    color: #990000;
+    font-style: red serif;
+}
+h3{
+    color: #FFA952;
+}
