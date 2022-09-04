@@ -1,5 +1,8 @@
+/*******************************TAGS SELECTORS*********************************/
+
 body{
     background-color: #FEFFDF;
+    background-image: url("10.jpeg");
 }
 hr{
     border-style: dotted none none;
@@ -14,8 +17,44 @@ img{
 }
 h1{
     color: #990000;
-    font-style: red serif;
+    
 }
+
 h3{
     color: #FFA952;
+}
+
+
+/**************************************Class Selectors************************************/
+/*.edu{
+    color: #111ecde4;
+}
+.hobb{
+    color: aqua;
+}
+*/
+.isha{
+    color: #990000;
+}
+.isha1{
+    float: right; padding-right: 200px; padding-left: 50px;
+}
+.hobbies{
+    text-align: center;
+}
+ol.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+/**********************************Id Selectors*************************************/
+/*#heading{
+    color: black;
+}
+*/
+#img{
+    border: 20px solid #850E35;
+    /* position: relative; */
+    /* display: inline-block; */
+    /* float: left; */
+    
 }
