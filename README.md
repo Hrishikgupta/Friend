@@ -1,2 +1,2 @@
-# isha
+# Friend
 details about isha
